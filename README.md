@@ -47,7 +47,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Sous macOS ou Linux, remplacer l'activation par `source .venv/bin/activate`.
+
 
 ## Ordre d'exécution
 
